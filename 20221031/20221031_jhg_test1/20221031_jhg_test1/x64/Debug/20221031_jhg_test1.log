@@ -1,0 +1,10 @@
+﻿  20221031_jhg_test1.cpp
+D:\C-프로그래밍\20221031\20221031_jhg_test1\20221031_jhg_test1\20221031_jhg_test1.cpp(93,1): error C2556: 'int round(double)': 오버로드된 함수가 'double round(double)'과(와) 반환 형식만 다릅니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(531): message : 'round' 선언을 참조하십시오.
+D:\C-프로그래밍\20221031\20221031_jhg_test1\20221031_jhg_test1\20221031_jhg_test1.cpp(92,5): error C2371: 'round': 재정의. 기본 형식이 다릅니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(531): message : 'round' 선언을 참조하십시오.
+D:\C-프로그래밍\20221031\20221031_jhg_test1\20221031_jhg_test1\20221031_jhg_test1.cpp(92,5): error C2491: 'round': dllimport 함수을(를) 정의할 수 없습니다.
+D:\C-프로그래밍\20221031\20221031_jhg_test1\20221031_jhg_test1\20221031_jhg_test1.cpp(125,53): error C2264: 'round': 함수 정의 또는 선언에 오류가 있습니다. 함수가 호출되지 않습니다.
+D:\C-프로그래밍\20221031\20221031_jhg_test1\20221031_jhg_test1\20221031_jhg_test1.cpp(125,12): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\C-프로그래밍\20221031\20221031_jhg_test1\20221031_jhg_test1\20221031_jhg_test1.cpp(125,12): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+D:\C-프로그래밍\20221031\20221031_jhg_test1\20221031_jhg_test1\20221031_jhg_test1.cpp(125,12): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%d'에 필요합니다.
