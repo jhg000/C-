@@ -1,0 +1,4 @@
+﻿  20221123_jhg_test1.cpp
+D:\C-program\20221123\20221123_jhg_test1\20221123_jhg_test1\20221123_jhg_test1.cpp(67): warning C4717: 'find_min': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
+D:\C-program\20221123\20221123_jhg_test1\20221123_jhg_test1\20221123_jhg_test1.cpp(52): warning C4717: 'find_max': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
+  20221123_jhg_test1.vcxproj -> D:\C-program\20221123\20221123_jhg_test1\Debug\20221123_jhg_test1.exe
