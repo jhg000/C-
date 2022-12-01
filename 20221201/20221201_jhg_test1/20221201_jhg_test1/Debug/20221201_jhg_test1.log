@@ -1,0 +1,10 @@
+﻿  20221201_jhg_test1.cpp
+D:\C-program\20221201\20221201_jhg_test1\20221201_jhg_test1\20221201_jhg_test1.cpp(117,13): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C-program\20221201\20221201_jhg_test1\20221201_jhg_test1\20221201_jhg_test1.cpp(118,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C-program\20221201\20221201_jhg_test1\20221201_jhg_test1\20221201_jhg_test1.cpp(119,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C-program\20221201\20221201_jhg_test1\20221201_jhg_test1\20221201_jhg_test1.cpp(120,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C-program\20221201\20221201_jhg_test1\20221201_jhg_test1\20221201_jhg_test1.cpp(126,13): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C-program\20221201\20221201_jhg_test1\20221201_jhg_test1\20221201_jhg_test1.cpp(127,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C-program\20221201\20221201_jhg_test1\20221201_jhg_test1\20221201_jhg_test1.cpp(128,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C-program\20221201\20221201_jhg_test1\20221201_jhg_test1\20221201_jhg_test1.cpp(129,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  20221201_jhg_test1.vcxproj -> D:\C-program\20221201\20221201_jhg_test1\Debug\20221201_jhg_test1.exe
